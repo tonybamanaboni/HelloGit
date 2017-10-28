@@ -9,7 +9,7 @@ public class HelloGitTest {
 	@Test
 	public void test() {
 		HelloGit hg = new HelloGit();
-		assertEquals("I'm the trash man", hg.getMessage());
+		assertEquals("Adam is actually pretty cool", hg.getMessage());
 	}
 
 }
