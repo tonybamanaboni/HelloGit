@@ -4,10 +4,6 @@ public class HelloGit {
 
 	public String getMessage() {
 		// TODO Auto-generated method stub
-		return "Adam is actually pretty cool";
-	}
-	
-	
-
-
+		return "Steam power";
+	} 
 }
